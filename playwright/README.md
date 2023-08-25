@@ -1,6 +1,6 @@
 # Flight Application UI Test Automation
 
-This repository contains UI test automation scripts for the Flight Application using Playwright. The tests are designed to validate various functionalities of the application. The following tests have been implemented:
+This repository contains UI test automation scripts for the Flight Application using Playwright. The tests are designed to validate various functionalities of the application.
 
 ## Installation and Running the Tests
 
